@@ -61,7 +61,7 @@ const LogIn = () => {
                                 <input type="submit" value="Log IN" />
                             </div>
                         </form>
-                        <p>New to Car Doctor ? <Link className='text-[#FF3811] font-semibold' to="/signup">Sign Up</Link></p>
+                        <p>New to college booking ? <Link className='text-[#FF3811] font-semibold' to="/signup">Sign Up</Link></p>
                         <SocialLogin></SocialLogin>
                     </div>
                 </div>
